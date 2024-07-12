@@ -120,3 +120,8 @@ Duplicated footnote reference[^second].
     and multiple paragraphs. 
  
 [^second]: Footnote text. 
+
+## Images 
+ 
+![Minion](https://octodex.github.com/images/minion.png) 
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
